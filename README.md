@@ -2,6 +2,7 @@
 Composite FEA MATLAB code from Undergrad Thesis
 
 ********** Operation Notes ***************
+
 The maindriver.m file is the code that runs all of case studies of interest. 
 
 "constructF ..." files are for building forcing vector depending on the element type
@@ -12,4 +13,5 @@ The maindriver.m file is the code that runs all of case studies of interest.
 
 
 ********* Info **************
+
 For more detailed analysis/info, please see the thesis PDF document in the repo
