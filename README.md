@@ -10,3 +10,6 @@ The maindriver.m file is the code that runs all of case studies of interest.
 
 "solve ..." files are for solving for displacement/rotational output given forcing input
 
+
+********* Info **************
+For more detailed analysis/info, please see the thesis PDF document in the repo
